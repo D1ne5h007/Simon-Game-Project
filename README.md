@@ -1,2 +1,6 @@
-# Simon-Game-Project
-The Simon Game is a classic memory-based electronic game that challenges players to repeat increasingly complex sequences of lights and sounds. This version is built using HTML, CSS, and JavaScript, replicating the nostalgic experience of the original game with an interactive web interface
+# vHow to Play:
+
+1) Press Any Key to begin the game.
+2) Watch and listen as the game plays a sequence of lights and sounds.
+3) Repeat the sequence by clicking the correct buttons in the same order.
+4) The sequence will get longer with each round. Make a mistake, and the game's over!
