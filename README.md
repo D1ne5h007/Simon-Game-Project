@@ -1,4 +1,4 @@
-# vHow to Play:
+# How to Play:
 
 1) Press Any Key to begin the game.
 2) Watch and listen as the game plays a sequence of lights and sounds.
